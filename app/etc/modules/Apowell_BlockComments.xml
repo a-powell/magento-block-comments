@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Apowell_BlockComments>
+           <active>true</active>
+           <codePool>local</codePool>
+        </Apowell_BlockComments>
+    </modules>
+</config>
+
