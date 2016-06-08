@@ -12,7 +12,7 @@
                 <observers>
                     <apowell_blockcomments>
                         <type>model</type>
-                        <class>apowell_blockcomments_model_observer</class>
+                        <class>Apowell_BlockComments_Model_Observer</class>
                         <method>setFrameTags</method>
                     </apowell_blockcomments>
                 </observers>
